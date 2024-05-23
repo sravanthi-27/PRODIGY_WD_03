@@ -18,3 +18,9 @@ Welcome to the Tic Tac Toe Web Application project! This is a simple web-based g
 - JavaScript
 
 - ## link of the project:
+-
+- https://github.com/sravanthi-27/PRODIGY_WD_03
+
+## Screenshot of the website
+
+![Screenshot 2024-05-23 134411](https://github.com/sravanthi-27/PRODIGY_WD_03/assets/170450054/957d5bac-da69-4a40-8dfe-9469f45e8e8b)
